@@ -8,3 +8,5 @@
 - `cp env_example .env`
 4. Run server
 - `python3 server.py`
+
+### Test locally with Postman
