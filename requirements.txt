@@ -1,0 +1,16 @@
+blinker==1.8.2
+certifi==2024.8.30
+charset-normalizer==3.4.0
+click==8.1.7
+Flask==3.0.3
+geographiclib==2.0
+geopy==2.4.1
+idna==3.10
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.1
+populartimes @ git+https://github.com/m-wrzr/populartimes@989f66b63dd1b6a144c5ad4a7c3a200f7f8649ee
+python-dotenv==1.0.1
+requests==2.32.3
+urllib3==1.26.20
+Werkzeug==3.0.4
